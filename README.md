@@ -10,7 +10,6 @@
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
-pend the below code to README.md. Add/remove the necessary skills you want in your profile:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
