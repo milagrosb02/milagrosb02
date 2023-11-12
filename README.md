@@ -6,7 +6,7 @@
 
 
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47a2wr53ygnr1xlieaied9t8d7kqa8gfmhpmf3aauk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="600" height="300"/>
+  <img src="https://media2.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif?cid=ecf05e47a2wr53ygnr1xlieaied9t8d7kqa8gfmhpmf3aauk&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="400" height="300"/>
 </div>
 
 ### :hammer_and_wrench: Languages and Tools :
